@@ -1,0 +1,4 @@
+interface:
+  display_name: "市场书目录标题写作"
+  short_description: "保留内容原意，重构具有爆款感和市场张力的节与小节标题"
+  default_prompt: "使用 $market-book-toc-title-writer 提炼每节原意，摆脱原句式，并用爆款标题机制重写我的市场书目录。"
