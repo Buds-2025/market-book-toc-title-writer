@@ -45,6 +45,3 @@ python scripts/audit_toc.py <你的目录文件>.md
 
 > 脚本只能发现形式风险，不能替代内容判断。
 
-## 许可
-
-本仓库内容供个人与团队在 WorkBuddy 中使用。
